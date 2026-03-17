@@ -1,0 +1,13 @@
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*Notes.bib
+*.synctex
+*.synctex.gz
+*.ipynb_checkpoints
+*.virtual_documents
+*__pycache__
