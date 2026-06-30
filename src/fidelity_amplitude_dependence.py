@@ -20,7 +20,7 @@ if __name__ == '__main__':
 
     ham_type='all_ord'
 
-    rel_f_range = np.arange(0.99, 1.01, 1e-4)
+    rel_f_range = np.arange(0.99, 1.01, 1e-3)
 
     inf_arr = []
     ph_ex_arr = []
